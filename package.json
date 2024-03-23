@@ -70,6 +70,9 @@
     "sass": "^1.35.2",
     "typescript": "^3.7.5"
   },
+  "publishConfig": {
+  "@LonelyPaprika:registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "@react-three/drei": "^9.0.0",
     "@react-three/fiber": "^8.0.0",
