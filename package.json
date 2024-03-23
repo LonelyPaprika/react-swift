@@ -4,7 +4,7 @@
   "description": "Made with create-react-library",
   "author": "jhavl",
   "license": "MIT",
-  "repository": "lonelylaprika/react-swift",
+  "repository": "https://github.com/lonelypaprika/react-swift.git",
   "type": "module",
   "main": "dist/index",
   "module": "dist/index",
@@ -71,7 +71,7 @@
     "typescript": "^3.7.5"
   },
   "publishConfig": {
-    "@lonelypaprika:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@react-three/drei": "^9.0.0",
