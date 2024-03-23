@@ -4,7 +4,7 @@
   "description": "Made with create-react-library",
   "author": "jhavl",
   "license": "MIT",
-  "repository": "https://github.com/lonelypaprika/react-swift.git",
+  "repository": "https://github.com/LonelyPaprika/react-swift",
   "type": "module",
   "main": "dist/index",
   "module": "dist/index",
