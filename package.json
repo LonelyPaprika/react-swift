@@ -1,7 +1,7 @@
 {
   "name": "@lonelypaprika/react-swift",
-  "version": "0.1.0",
-  "description": "Made with create-react-library",
+  "version": "0.1.1",
+  "description": "swift simulator react package",
   "author": "jhavl",
   "license": "MIT",
   "repository": "https://github.com/LonelyPaprika/react-swift",
