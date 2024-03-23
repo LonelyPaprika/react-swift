@@ -16,9 +16,8 @@ jobs:
         with:
           node-version: '15'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@LonelyPaprika'
+          scope: '@lonelypaprika'
       
-          
       - run: npm install
       - run: npm run build
       - run: npm publish
