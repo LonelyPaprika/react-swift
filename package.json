@@ -71,7 +71,7 @@
     "typescript": "^3.7.5"
   },
   "publishConfig": {
-    "@lonelypaprika:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@react-three/drei": "^9.0.0",
